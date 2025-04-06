@@ -1,0 +1,2 @@
+# A-Forensics-Activity-Logger-to-Extract-User-Activity-from-Mobile-Devices
+A lightweight tool for extracting user activity from mobile devices to aid digital investigations. It captures app usage, call/SMS logs, browser history, location data, and system events. Supports both Android and iOS (with root/jailbreak for full access). Ideal for forensic analysts to reconstruct user behavior timelines efficiently.
